@@ -67,7 +67,7 @@ Application code must not treat a conflicting document as an excuse to bypass th
 
 ## Article XI — Language
 
-Code, columns, and routes are in English. Documentation and user-facing messages are in English.
+Code, columns, and routes are in English. Documentation and user-facing messages are in English. All specification documents have been translated from Spanish to English to ensure consistency across implementations.
 
 ## Article XII — Nothing is complete without evidence
 
